@@ -1,5 +1,5 @@
 
-# Covid-19: Tracker
+# Covid-19-20: Tracker
 You can track summary covid-19 data for a general or specific country. This application was developed with Vue.js. The application retrieves data from [covid19api.com](https://covid19api.com)
 
 #### Project setup
