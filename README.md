@@ -1,4 +1,3 @@
-![covid19-tracker](https://user-images.githubusercontent.com/10329339/89811743-c1466b00-db47-11ea-960d-3b3c6841a711.gif)
 
 # Covid-19: Tracker
 You can track summary covid-19 data for a general or specific country. This application was developed with Vue.js. The application retrieves data from [covid19api.com](https://covid19api.com)
