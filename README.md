@@ -33,5 +33,4 @@ All of the included images are Copyright (c) 2013 Go Squared Ltd. http://www.gos
 ___
 
 #### Author
-[Doğukan Batal](http://dogukanbatal.com) - Mail: [dogukanbatal@gmail.com](mailto:dogukanbatal@gmail.com)
-
+[Aakash Chaudhary] - Mail: [aakashchoudhary66@gmail.com]
